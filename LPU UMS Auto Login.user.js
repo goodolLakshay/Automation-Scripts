@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Autofill username and password on LPU UMS login page.
 // @author       You
-// @match        https://ums.lpu.in/lpuums/LoginNew.aspx
+// @match        https://ums.lpu.in/*
 // @grant        none
 // ==/UserScript==
 
