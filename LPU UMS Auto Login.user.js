@@ -12,8 +12,8 @@
     'use strict';
 
     // Replace the following variables with your LPU UMS username and password
-    const username = 'Enter your username here';
-    const password = 'Enter yout password here';
+    const username = 'Enter_your_username_here';
+    const password = 'Enter_your_password_here';
     
     // Function to simulate a real click on an element
     function simulateClick(element) {
