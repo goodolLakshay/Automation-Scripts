@@ -6,6 +6,7 @@
 // @author       You
 // @match        https://internet.lpu.in/24online/*
 // @match        https://10.10.10.1/*
+// @match        https://10.10.0.1/*
 // @grant        none
 // ==/UserScript==
 
