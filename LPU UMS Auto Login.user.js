@@ -27,7 +27,7 @@
 
     // Function to simulate a real click on the login button
     function simulateLoginClick() {
-        const loginButton = document.getElementById('iBtnLogins');
+        const loginButton = document.getElementById('iBtnLogins150203125');
         simulateClick(loginButton);
     }
 
